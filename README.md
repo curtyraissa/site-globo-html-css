@@ -1,4 +1,4 @@
-![Imagem 1](./layout-projeto.jpg "Imagem 1")
+![Imagem 1](./layout-projeto.png "Imagem 1")
 
 <h1 align="center">Projeto Clone do globo.com </h1>
 
