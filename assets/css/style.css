@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Encode Sans', sans-serif;
+  font-style: normal;
   color: #2F3134;
   margin: 0;
 }
@@ -42,13 +43,14 @@ ul {
   line-height: 1.5rem;
 }
 
-.g1{
+.g1 {
   color: #C3170C;
 }
 
 .oglobo {
-  color:#1E4B9B;
+  color: #1E4B9B;
 }
+
 .valor {
   color: #006766;
 }
@@ -80,3 +82,111 @@ ul {
 .receitas {
   color: #a81d83;
 }
+
+main {
+  display: flex;
+  width: 100%;
+  margin-bottom: 41px ;
+}
+
+.left {
+  display: block;
+  width: 50%;
+  margin-bottom: 46px;
+}
+
+
+
+h1 {
+  font-weight: 700;
+  font-size: 2.61rem;
+  line-height: 4.18rem;
+  color: #C4160C;
+  margin-bottom: 29px;
+}
+
+p {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #303134;
+}
+
+.news {
+  margin: 34px 42px 0 0;
+}
+
+.border-row {
+  border-bottom: 1px solid #f5f6f7;
+  margin: 25px 0;
+}
+
+.mb-7 {
+  margin-bottom: 7px;
+}
+
+.conteiner {
+  display: flex;
+  gap: 24px;
+}
+
+.box {
+  flex-wrap: wrap;
+}
+
+.left-img {
+  border-radius: 12px;
+  height: 110px;
+}
+
+.box-title{
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+color: #C4170C;
+margin: 11px 0 6px 0;
+}
+
+h2{
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+color: #2F3134;
+margin-bottom: 5px;
+}
+
+.description{
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #2F3134;
+}
+
+.right {
+  display: block;
+  width: 50%;
+  margin-top: 36px;
+}
+
+.border-column{
+  border-left: 1px solid #f5f6f7;
+  margin: 36px 35px 32px 35px;
+}
+
+.conteiner-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ }
+
+.column{
+  display: flex;
+  height: 100%;
+  
+}
+
+.right-img {
+  border-radius: 12px;
+  height: 128px;
+}
+
