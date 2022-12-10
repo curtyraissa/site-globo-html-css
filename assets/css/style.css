@@ -182,11 +182,17 @@ color: #2F3134;
 .column{
   display: flex;
   height: 100%;
-  
-}
+  }
 
 .right-img {
   border-radius: 12px;
   height: 128px;
+}
+.orange{
+  color: #EC8006;
+}
+
+.green{
+  color: #16AE54
 }
 
