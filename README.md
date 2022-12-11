@@ -2,8 +2,10 @@
 
 <h1 align="center">Projeto clone do globo.com </h1>
 
-###
+<p align="justify">Esse desafio, foi desenvolver a aplicação do globo.com a partir de um layout, colocando em prática tudo o que aprendi.</p>
+<hr/>
 
+## 🛠 &nbsp;Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -13,12 +15,13 @@
 </div>
 <hr/>
 
-## Documentos utilizados:
+## 🚀 &nbsp;Links
 
-[Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0)
+- [Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0).<br/>
+- [Deploy](https://driven-globo.vercel.app/).<br/>
 ___
-## Contato
 
+## 💬 &nbsp;Contact
 <img align="left" src="https://avatars.githubusercontent.com/curtyraissa?size=100">
 
 Feito por [Raissa Curty](https://github.com/curtyraissa)!
