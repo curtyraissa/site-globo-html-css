@@ -13,11 +13,15 @@
 </div>
 <hr/>
 
-## Documentos utilizados:
+<p align="justify">Nesse desafio, foi replicar a aplicação do globo.com, a partir de um layout, para por em prática o que aprendi.</p>
+<hr/>
 
-[Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0)
+## Utilitários:
+
+- 🚀 Link do [Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0).<br/>
+- 🚀 Link do [Deploy](https://driven-globo.vercel.app/).<br/>
 ___
-## Contato
+## Contato:
 
 <img align="left" src="https://avatars.githubusercontent.com/curtyraissa?size=100">
 
