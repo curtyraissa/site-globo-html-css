@@ -2,6 +2,9 @@
 
 <h1 align="center">Projeto clone do globo.com </h1>
 
+<p align="justify">Esse desafio, foi desenvolver a aplicação do globo.com a partir de um layout, colocando em prática tudo o que aprendi.</p>
+<hr/>
+
 ## 🛠 &nbsp;Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -12,13 +15,10 @@
 </div>
 <hr/>
 
-<p align="justify">Esse desafio, foi replicar a aplicação do globo.com, a partir de um layout, para por em prática o que aprendi.</p>
-<hr/>
+## 🚀 &nbsp;Links
 
-## 🚀 &nbsp;Utilitários
-
-- Link do [Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0).<br/>
-- Link do [Deploy](https://driven-globo.vercel.app/).<br/>
+- [Figma](https://www.figma.com/file/Vz3v41ZNYoN0eNDGkDJBwh/Projeto-Globo.com-(Copy)?t=iOb9rBoOgYz8Rgae-0).<br/>
+- [Deploy](https://driven-globo.vercel.app/).<br/>
 ___
 
 ## 💬 &nbsp;Contact
