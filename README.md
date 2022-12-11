@@ -13,7 +13,7 @@
 </div>
 <hr/>
 
-<p align="justify">Nesse desafio, foi replicar a aplicação do globo.com, a partir de um layout, para por em prática o que aprendi.</p>
+<p align="justify">Esse desafio, foi replicar a aplicação do globo.com, a partir de um layout, para por em prática o que aprendi.</p>
 <hr/>
 
 ## Utilitários:
