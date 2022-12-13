@@ -16,6 +16,8 @@ nav {
   display: block;
   align-items: center;
   justify-content: center;
+  border-bottom: 1px solid #f5f6f7;
+  border-top: 1px solid #f5f6f7;
 }
 
 .header-logo {
@@ -31,9 +33,10 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #f5f6f7;
-  border-top: 1px solid #f5f6f7;
-  padding: 10px
+
+  padding: 10px;
+  max-width: 1250px;
+  margin: auto;
 }
 
 .head-link {
@@ -86,7 +89,7 @@ ul {
 main {
   display: flex;
   width: 100%;
-  margin-bottom: 41px ;
+  margin-bottom: 41px;
 }
 
 .left {
@@ -139,27 +142,27 @@ p {
   height: 110px;
 }
 
-.box-title{
-font-weight: 500;
-font-size: 14px;
-line-height: 18px;
-color: #C4170C;
-margin: 11px 0 6px 0;
+.box-title {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #C4170C;
+  margin: 11px 0 6px 0;
 }
 
-h2{
-font-weight: 700;
-font-size: 20px;
-line-height: 25px;
-color: #2F3134;
-margin-bottom: 5px;
+h2 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  color: #2F3134;
+  margin-bottom: 5px;
 }
 
-.description{
-font-weight: 400;
-font-size: 14px;
-line-height: 19px;
-color: #2F3134;
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #2F3134;
 }
 
 .right {
@@ -168,9 +171,9 @@ color: #2F3134;
   margin-top: 36px;
 }
 
-.border-column{
+.border-column {
   border-left: 1px solid #f5f6f7;
-  margin: 36px 35px 32px 35px;
+  margin: 36px 35px 0 35px;
 }
 
 .conteiner-right {
@@ -178,22 +181,26 @@ color: #2F3134;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
- }
+}
 
-.column{
+.column {
   display: flex;
   height: 100%;
-  }
+}
 
 .right-img {
   border-radius: 12px;
   width: 100%;
 }
-.orange{
+
+.orange {
   color: #EC8006;
 }
 
-.green{
+.green {
   color: #16AE54
 }
 
+.off {
+  margin: 0 35px
+}
