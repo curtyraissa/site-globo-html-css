@@ -4,6 +4,19 @@
 
 <p align="justify">Esse desafio, foi desenvolver a aplicação do globo.com a partir de um layout, colocando em prática tudo o que aprendi.</p>
 <hr/>
+✅ Requisitos
+
+- [x]  Aplicar o layout seguindo o Figma fornecido;
+- [x]  Utilize a fonte Encode Sans na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página;
+    - Como fazer isso?
+        1. Acesse [https://fonts.google.com/](https://fonts.google.com/)
+        2. Procure pela fonte **Encode Sans**
+        3. Selecione todos os estilos até o **Bold 700**
+        4. Uma sidebar aparecerá à direita. Nela, copie o HTML (as tags `link`) e cole-o dentro da tag `head` da sua página
+        5. Copie o `font-family` dado na sidebar e coloque-o no estilo do `body` 
+- [x]  Todas as notícias devem ser links. Não é necessário colocar links para as páginas reais, pode ser um *link* falso (ex: `https://globo.com`);
+- [x]  Para fazer imagens com bordas arredondadas procure pela propriedade `border-radius`.
+<hr/>
 
 ## 🛠 &nbsp;Skills
 <div align="center">
